@@ -2,8 +2,8 @@ name: Generate Trophy Image
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs once a day at midnight UTC
-  workflow_dispatch: {}    # Lets you trigger it manually from the Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
 
 jobs:
   generate-trophy:
@@ -15,12 +15,10 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Achintha2002
-          output_path: trophy.svg
+          file: trophy.svg
           theme: tokyonight
-          no-frame: true
-          no-bg: true
-          row: 1
-          column: 6
+          max-cols: 6
+          max-rows: 1
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push trophy.svg
