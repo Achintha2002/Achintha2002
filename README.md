@@ -23,8 +23,7 @@
 
 <div align="center">
   
-  <!-- Using a highly reliable alternative server (demolab) for Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Achintha2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achintha2002&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=100" alt="GitHub Streak" />
   
 </div>
 
