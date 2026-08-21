@@ -11,14 +11,6 @@
 
 ---
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Achintha2002&theme=tokyonight&no-frame=true&no-bg=true)
-
-</div>
-
----
-
 ### 🚀 Tech Stack
 
 <p align="center">
@@ -27,13 +19,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streak
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achintha2002&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha2002&layout=compact&theme=tokyonight&hide_border=true)
-
+  
+  <!-- Using a highly reliable alternative server (demolab) for Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Achintha2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
+  
 </div>
 
 ---
