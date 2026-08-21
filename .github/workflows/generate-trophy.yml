@@ -11,15 +11,12 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: Achintha2002
-          file: trophy.svg
-          theme: tokyonight
-          max-cols: 6
-          max-rows: 1
-          token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -sSLo trophy.svg "https://github-profile-trophy.vercel.app/?username=Achintha2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6&cache_seconds=86400"
 
       - name: Commit and push trophy.svg
         run: |
