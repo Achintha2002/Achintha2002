@@ -19,13 +19,12 @@
 
 ---
 
-### 📊 GitHub Stats & Streak
+### 📊 GitHub Profile Summary
 
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achintha2002&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=100" alt="GitHub Streak" />
-  
-</div>
+<p align="center">
+  <!-- සම්පූර්ණයෙන්ම වෙනස් සර්වර් එකක් භාවිතා කරන කාඩ්පතක් -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Achintha2002&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
 
 ---
 
