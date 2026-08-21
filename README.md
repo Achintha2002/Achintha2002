@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Achintha2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6&cache_seconds=86400" alt="Trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=Achintha2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
@@ -24,8 +24,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achintha2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha2002&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top Languages" width="45%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Achintha2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Achintha2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 ---
