@@ -1,0 +1,31 @@
+<svg width="645" height="150" viewBox="0 0 645 150" xmlns="http://www.w3.org/2000/svg">
+<style>text{font-family:Segoe UI,Verdana,sans-serif;} .title{font-size:14px;fill:#c9d1d9;} .value{font-size:26px;font-weight:bold;} .rank{font-size:12px;fill:#8b949e;}</style>
+
+<g transform="translate(0,0)">
+  <rect x="0" y="0" width="150" height="150" rx="10" fill="#161b22" stroke="#a1a1aa" stroke-width="2"/>
+  <text x="75.0" y="35" text-anchor="middle" class="title">Stars</text>
+  <text x="75.0" y="80" text-anchor="middle" class="value" fill="#a1a1aa">0</text>
+  <text x="75.0" y="115" text-anchor="middle" class="rank">Rank C</text>
+</g>
+
+<g transform="translate(165,0)">
+  <rect x="0" y="0" width="150" height="150" rx="10" fill="#161b22" stroke="#a1a1aa" stroke-width="2"/>
+  <text x="75.0" y="35" text-anchor="middle" class="title">Followers</text>
+  <text x="75.0" y="80" text-anchor="middle" class="value" fill="#a1a1aa">1</text>
+  <text x="75.0" y="115" text-anchor="middle" class="rank">Rank C</text>
+</g>
+
+<g transform="translate(330,0)">
+  <rect x="0" y="0" width="150" height="150" rx="10" fill="#161b22" stroke="#22c55e" stroke-width="2"/>
+  <text x="75.0" y="35" text-anchor="middle" class="title">Repositories</text>
+  <text x="75.0" y="80" text-anchor="middle" class="value" fill="#22c55e">14</text>
+  <text x="75.0" y="115" text-anchor="middle" class="rank">Rank B</text>
+</g>
+
+<g transform="translate(495,0)">
+  <rect x="0" y="0" width="150" height="150" rx="10" fill="#161b22" stroke="#a1a1aa" stroke-width="2"/>
+  <text x="75.0" y="35" text-anchor="middle" class="title">Forks</text>
+  <text x="75.0" y="80" text-anchor="middle" class="value" fill="#a1a1aa">2</text>
+  <text x="75.0" y="115" text-anchor="middle" class="rank">Rank C</text>
+</g>
+</svg>
